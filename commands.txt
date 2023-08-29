@@ -1,0 +1,4 @@
+Bard]google-chrome-stable  --user-data-dir=.config/bard  --app=https://bard.google.com/
+Poe]google-chrome-stable  --user-data-dir=.config/poe  --app=https://www.poe.com/
+ChatGPT]gpt-desktop
+Perplexity]google-chrome-stable  --user-data-dir=.config/perplexity  --app=https://www.perplexity.ai/
